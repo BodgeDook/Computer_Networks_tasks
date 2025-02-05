@@ -1,0 +1,11 @@
+Site,Min RTT (ms),Max RTT (ms),Avg RTT (ms)
+google.com,45.9,57.28,49.08
+yandex.ru,66.4,101.94,89.2
+ozon.ru,101.71,102.93,102.29
+walmart.com,101.93,103.37,102.62
+youtube.com,50.33,69.95,55.28
+discord.com,47.55,49.25,48.34
+wildberries.com,102.95,115.66,106.52
+vk.com,43.12,46.16,44.05
+nsu.ru,6.93,9.86,7.95
+wikipedia.org,88.29,135.52,108.17
